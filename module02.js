@@ -1,6 +1,7 @@
-﻿define([
-	'jquery'
-], function ($) {
+﻿// See module01 for comments
+
+define([
+], function () {
 
 	var initModule;
 
